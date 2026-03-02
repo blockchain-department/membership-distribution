@@ -1,0 +1,25 @@
+{
+  "decimals": 6,
+  "recipients": [
+    {
+      "wallet": "AUHuA5cyvWQ4hzHe6YHNfE4eQpHvEtnDKHqVY9gbgDWi",
+      "amount": 150000
+    },
+    {
+      "wallet": "mooGAJGD4gF3HP9b5nRZDh9GFFHYMHNhXij3VLPWzkX",
+      "amount": 40000
+    },
+    {
+      "wallet": "2YKBqu5ejfjx3PoeAiX4piCXKK3FKn5HNTYTEL9ArMv2",
+      "amount": 30000
+    },
+    {
+      "wallet": "Bd7F9XJT9GNGbgfnQVW3RewdEsek51KuCXR6XJyWYAZs",
+      "amount": 20000
+    },
+    {
+      "wallet": "6ENXhky3QwqvXSFSDsHxfCXwgAbHGMHZqJqFUNimjq8L",
+      "amount": 10000
+    }
+  ]
+}

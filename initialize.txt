@@ -1,0 +1,9 @@
+[dotenv@17.3.1] injecting env (8) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+Cluster: https://api.devnet.solana.com
+Authority: FQcUKgBwfs5NsQ6o2R72bnS7xedj3z6PKhXDaAsitPah
+New Distribution Account: 7yoaZcnqmcV3cbqcXqiBZHVbQbvA8gz1DcfRccjLAdPN
+Vault Authority PDA: 6vWPwRYr2ebemnu7RkzzPTuhpGoekJjkxeAJHJ59PYPg
+Vault Authority Bump: 255
+Vault ATA: 3fmgNWkCS587fexAZMPLHcww5P6X6dVsbVx2Wq7LPzC3
+Mint Decimals: 6
+Total Cap With Decimals: 250000000000

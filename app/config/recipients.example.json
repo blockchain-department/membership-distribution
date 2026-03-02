@@ -1,0 +1,17 @@
+{
+  "format": "allocation values are raw token units (already scaled by mint decimals)",
+  "recipients": [
+    {
+      "wallet": "5h7W4w1UwCQAdRkJ7R8XiiMHDLecxB2S7R1CV2wAPYfN",
+      "allocation": "2000000000"
+    },
+    {
+      "wallet": "8dS2oQj2WjJfY5BWm7m3K1V6QF1r6aPxwC7VqQMoBsyR",
+      "allocation": "2000000000"
+    },
+    {
+      "wallet": "F6Q5LQxkY2Wm2cvYx5u8D4w7cF5QfQwEtV5R1h2Lrt9w",
+      "allocation": "12000000000"
+    }
+  ]
+}
